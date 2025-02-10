@@ -48,7 +48,7 @@ I’m always open to collaborations, and I welcome **contributors** to my projec
 
 ---
 
-## 💋 **Connect with Me**  
+## **Connect with Me**  
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ankit-j-1761a9216/)  
 - Leetcode: [Leetcode Profile](https://leetcode.com/u/Ankit_jha_2003/)  
 - GFG: [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/ankitjhaix7g/)  

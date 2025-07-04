@@ -1,8 +1,8 @@
 # 👋 **Hi, I'm Ankit Jha**  
 
-**B.Tech CSE Student | Web Developer | Tech Enthusiast**
+** Mern Stack Developer | Tech Enthusiast**
 
-I am a dedicated and passionate Computer Science and Engineering student at the University Institute of Technology, RGPV, Shivpuri, Madhya Pradesh. With a strong foundation in web development and software engineering, I thrive on building innovative solutions that solve real-world problems.
+I am a dedicated and passionate Computer Science and Engineering graduate from the University Institute of Technology, RGPV, Shivpuri, Madhya Pradesh. With a strong foundation in web development and software engineering, I thrive on building innovative solutions that solve real-world problems.
 
 My expertise centers around full-stack web development, where I leverage modern technologies to create efficient, scalable, and user-friendly applications. I am always eager to explore emerging technologies, enhance my problem-solving skills, and contribute to impactful projects. Driven by curiosity and a commitment to continuous learning, I actively engage in competitive programming, open-source contributions, and tech community discussions.
 
